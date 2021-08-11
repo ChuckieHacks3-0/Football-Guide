@@ -49,6 +49,24 @@ Assuming the ball is closest to the left sideline:
 
 ### Philosophy: Attacking
 
+**Attack Through the Middle**
+
+On the High School turf, all attacks on the wings tend to die because of the length of the artificial turf and because of how the field is crowned.  We want to ingrain the concept to the high school players of _ _playing the ball in_ _.  We want to use the wingers for one-two passes (wall pass) and for creating space in the channels.  We don't want our wingers attempting to beat defenders vertically on the dribble.  The exception is when the winger has a full step on the defender and can use that space to attack the near post once in the 18-yard box.
+
+**Fast but under Control**
+
+Losing the ball means that we can't score and the other team suddenly can.  We want to maintain possession of the ball and keep attacks going without making unnecessary and heavy touch errors.  We also want to play fast, even if we aren't necessarily fast individually.  This means we make quick decisions.  This means that we want to beat an opponent and then immediately make a dangerous soccer play.
+
+**Expansive in width and creativity**
+
+We want to literally pull our opponents apart.  By getting wide when we have possession, we have the opportunity to create space for ourselves be spreading out in the entire width of the field.  When this happens, it is much easier to be creative on and off the ball and to use improvisation to beat defenders 1v1.
+
+**Short-to-medium length passing**
+
+Long diagonal passes are dangerous and easily intercepted.  Especially when the pass is on the floor.  If we have a diagonal opening, we want to work the ball quickly to the other side (switch play) and then get the ball to the diagonal.
+
+Sending the ball long should only be done under pressure and in the defensive third.  Smashing long balls is the equivilant to just giving the ball away to the opposition.  Maintain control.  We are soccer players, not ball smashers.
+
 ### Philosophy: Defending
 
 ## Principles of Play

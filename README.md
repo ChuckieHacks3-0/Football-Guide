@@ -29,6 +29,14 @@ Any restart after a whistle (re-starting play); either in attack or defense.
 
 ![Vertical Lanes](./images/lanes.png)
 
+Assuming the ball is closest to the left sideline:
+
+1. Ball-side Flank
+2. Ball-side Channel
+3. Center (the difference between middle is to avoid confusion between the center lane and the middle 3rd)
+4. Weak-side Channel
+5. Weak-side Flank
+
 ### Breaking up the field: Three Horizontal Lanes
 
 ## Philosophy

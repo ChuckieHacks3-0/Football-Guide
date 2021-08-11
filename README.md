@@ -3,7 +3,7 @@ A study guide for MYSA Inferno U14+ sides
 
 ## Phases of Play
 
-**Attack** - 
+__**Attack**__
 
 When we have possession of the ball
 

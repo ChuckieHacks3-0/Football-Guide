@@ -69,6 +69,20 @@ Sending the ball long should only be done under pressure and in the defensive th
 
 ### Philosophy: Defending
 
+**Compact Field**
+
+Defend three lanes when the opposition has possession.  The lane with the ball in it and the two lanes on either side.  If you find yourself isolated in a lane far away from the ball, look to collapse to a lane close to the ball.  Our teammates depend on making sure that there are no large gaps in our defense.  When the ball is on the flank, defend the flank lane, and the two lanes next to it (ball-side channel and center lanes).
+
+**Responsible and Under Control**
+
+Defend with the ball in front of you if you are the closest player to the ball.  Then keep that ball in front of you, avoid overcommitting to the attacking player with the ball.  Challenge for the ball only when there is defensive support (usually from the midfield).
+
+A key point is to allow the opposition to _ _give the ball to us_ _.  Force the opposition to make a mistake and turn the ball over, rather than actively trying to win the ball.  Rarely do we want to actively poke or kick the ball away from the opposition.  
+
+When in the defensive 3rd of the field, our goal is to defend inside out.  This means that we give the attacking player with the ball the outside of the field and take away the center.  Scoring goals from wide is much more difficult than scoring from the center.
+
+In the attacking and middle 3rd, we want to defend from the outside in.  We do this because we are set up to have a numerical advantage in the center of the field.  Winning the ball in the middle of the field is to our advantage as well.  There are times, especially in the middle 3rd, where we want to play an attacking player wide.  This is usually because we haven't recovered our shape and need to give our teammates time to drop into a better support position.  A central defender/sweeper or deep midfielder should be communicating which way to play the attacking player in the middle 3rd of the field.
+
 ## Principles of Play
 
 ### Principles of Play: Attack

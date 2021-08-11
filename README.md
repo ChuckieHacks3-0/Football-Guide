@@ -27,7 +27,7 @@ Any restart after a whistle (re-starting play); either in attack or defense.
 
 ### Breaking up the field: Five Vertical Lanes
 
-[Vertical Lanes](./images/lanes.png)
+![Vertical Lanes](./images/lanes.png)
 
 ### Breaking up the field: Three Horizontal Lanes
 

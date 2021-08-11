@@ -39,6 +39,12 @@ Assuming the ball is closest to the left sideline:
 
 ### Breaking up the field: Three Horizontal Lanes
 
+![Horizontal Lanes](./images/horizontal.png)
+
+1. Attacking Third
+2. Middle Third
+3. Defending Third
+
 ## Philosophy
 
 ### Philosophy: Attacking

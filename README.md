@@ -1,37 +1,113 @@
-## Welcome to GitHub Pages
+# Football-Guide
+A study guide for U14+ sides
 
-You can use the [editor on GitHub](https://github.com/ChuckieHacks3-0/Football-Guide/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Table of Contents
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* *TODO: create section links so clicking on TOC item will take you to that section* *
 
-### Markdown
+- Phases of Play
+- Regions of the Field
+	- Five Verticle Lanes
+	- Three Horizontal Lanes
+- Philosophy
+	- Attacking Philosophy
+	- Defending Philosophy
+- Principles of Play
+	- Attacking Principles of Play
+	- Defending Principles of Play
+- Formation, Shape, and Positional Responsibilities
+	- Formations and Shape
+	- Position Groups
+		- Attackers
+		- Midfielders
+		- Defenders
+		- Goalkeepers
+- Set Pieces
+	- Attacking Set Pieces
+		- Attacking Throw Ins
+		- Attacking Goal Kicks
+		- Attacking Corner Kicks
+		- Attacking Direct Free Kicks
+		- Attacking Indirect Free Kicks
+		- Attacking Kick Offs
+	- Defending Set Pieces
+		- Defending Throw Ins
+		- Defending Goal Kicks
+		- Defending Corner Kicks
+		- Defending Direct Free Kicks
+		- Defending Indirect Free Kicks
+		- Defending Kick Offs
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Phases of Play
 
-```markdown
-Syntax highlighted code block
+**Attack**
 
-# Header 1
-## Header 2
-### Header 3
+**Attacking Transition**
 
-- Bulleted
-- List
+**Defense**
 
-1. Numbered
-2. List
+**Defensive Transition**
 
-**Bold** and _Italic_ and `Code` text
+**Dead Ball**
 
-[Link](url) and ![Image](src)
-```
+## Breaking up the field (Regions)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Five Vertical Lanes
 
-### Jekyll Themes
+### Three Horizontal Lanes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ChuckieHacks3-0/Football-Guide/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Philosophy
 
-### Support or Contact
+### Attacking
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Defending
+
+## Principles of Play
+
+### Attack
+
+### Defense
+
+## Formation, Shape, and Positional Responsibilites
+
+### Formations and Shape
+
+### Position Groups
+
+#### Attackers
+
+#### Midfielders
+
+#### Defenders
+
+#### Goalkeepers
+
+## Set Pieces
+
+### Attacking 
+
+#### Attacking Throw Ins
+
+#### Attacking Goal Kicks
+
+#### Attacking Corner Kicks
+
+#### Attacking Direct Free Kicks
+
+#### Attacking Indirect Free Kicks
+
+#### Attacking Kick Offs
+
+### Defending 
+
+#### Defending Throw Ins
+
+#### Defending Goal Kicks
+
+#### Defending Corner Kicks
+
+#### Defending Direct Free Kicks
+
+#### Defending Indirect Free Kicks
+
+#### Defending Kick Offs

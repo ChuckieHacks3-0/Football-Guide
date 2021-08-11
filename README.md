@@ -3,7 +3,7 @@ A study guide for MYSA Inferno U14+ sides
 
 ## Phases of Play
 
-__**Attack**__
+**Attack**
 
 When we have possession of the ball
 
@@ -26,6 +26,8 @@ Any restart after a whistle (re-starting play); either in attack or defense.
 ## Breaking up the field (Regions)
 
 ### Breaking up the field: Five Vertical Lanes
+
+[Vertical Lanes](./images/lanes.png)
 
 ### Breaking up the field: Three Horizontal Lanes
 

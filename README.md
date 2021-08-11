@@ -1,42 +1,5 @@
-# Football-Guide
-A study guide for U14+ sides
-
-## Table of Contents
-
-* *TODO: create section links so clicking on TOC item will take you to that section* *
-
-- Phases of Play
-- Regions of the Field
-	- Five Verticle Lanes
-	- Three Horizontal Lanes
-- Philosophy
-	- Attacking Philosophy
-	- Defending Philosophy
-- Principles of Play
-	- Attacking Principles of Play
-	- Defending Principles of Play
-- Formation, Shape, and Positional Responsibilities
-	- Formations and Shape
-	- Position Groups
-		- Attackers
-		- Midfielders
-		- Defenders
-		- Goalkeepers
-- Set Pieces
-	- Attacking Set Pieces
-		- Attacking Throw Ins
-		- Attacking Goal Kicks
-		- Attacking Corner Kicks
-		- Attacking Direct Free Kicks
-		- Attacking Indirect Free Kicks
-		- Attacking Kick Offs
-	- Defending Set Pieces
-		- Defending Throw Ins
-		- Defending Goal Kicks
-		- Defending Corner Kicks
-		- Defending Direct Free Kicks
-		- Defending Indirect Free Kicks
-		- Defending Kick Offs
+# Inferno Football-Guide
+A study guide for MYSA Inferno U14+ sides
 
 ## Phases of Play
 
@@ -52,21 +15,21 @@ A study guide for U14+ sides
 
 ## Breaking up the field (Regions)
 
-### Five Vertical Lanes
+### Breaking up the field: Five Vertical Lanes
 
-### Three Horizontal Lanes
+### Breaking up the field: Three Horizontal Lanes
 
 ## Philosophy
 
-### Attacking
+### Philosophy: Attacking
 
-### Defending
+### Philosophy: Defending
 
 ## Principles of Play
 
-### Attack
+### Principles of Play: Attack
 
-### Defense
+### Principles of Play: Defense
 
 ## Formation, Shape, and Positional Responsibilites
 
@@ -74,17 +37,17 @@ A study guide for U14+ sides
 
 ### Position Groups
 
-#### Attackers
+#### Position Group: Attackers
 
-#### Midfielders
+#### Position Group: Midfielders
 
-#### Defenders
+#### Position Group: Defenders
 
-#### Goalkeepers
+#### Position Group: Goalkeepers
 
 ## Set Pieces
 
-### Attacking 
+### Attacking Set Pieces
 
 #### Attacking Throw Ins
 
@@ -98,7 +61,7 @@ A study guide for U14+ sides
 
 #### Attacking Kick Offs
 
-### Defending 
+### Defending Set Pieces
 
 #### Defending Throw Ins
 

@@ -7,6 +7,10 @@ A study guide for MYSA Inferno U14+ sides
 
 ### [Phases and Principles of Play](Docs/phases-principles.md)
 
+### [Formation, Shape, &amp; Positional Responsibilities](Docs/formation-shape-position.md)
+
+### [Set Pieces](Docs/set-pieces.md)
+
 ### Defensive Case Study: Hunting the Ball
 
 This clip exemplifies our vision for how we want to defend: [Hunting the Ball](https://youtu.be/hfqTy2bJzmU)

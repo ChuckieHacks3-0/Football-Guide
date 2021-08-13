@@ -30,13 +30,21 @@ Any restart after a whistle (re-starting play); either in attack or defense.
 ### Principles of Play: Attack
 
 1. Penetration
+ 
  Getting inside and behind the defense's shape.  We want to attack and take on defenses.  Challenge them.  Attack the goal.
+
 2. Support &amp; Depth
+
 3. Mobility
+
  An offense's movement and flexibility so it's shape and direction are never predictable or repetitive.
+
 4. Width
+
  The ability of an offense to use the entire width of the field to spread out a defense and enable penetration and dangerous one-on-one isolation in different areas of the field.
+
 6. Improvisation &amp; Creativity
+
  This means attacking freedom.  Improvisation allows attackers to express themselves and be unpredictable and find new ways to create chances.
 
 ### Principles of Play: Defense

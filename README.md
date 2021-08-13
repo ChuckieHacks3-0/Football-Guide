@@ -1,13 +1,13 @@
 # Inferno Football-Guide
 A study guide for MYSA Inferno U14+ sides
 
-## [Playing Philosophy](Docs/philosophy.md)
+### [Playing Philosophy](Docs/philosophy.md)
 
-## [Tactical Areas of the Playing Field](Docs/regions.md)
+### [Tactical Areas of the Playing Field](Docs/regions.md)
 
-## [Phases and Principles of Play](Docs/phases-principles.md)
+### [Phases and Principles of Play](Docs/phases-principles.md)
 
-## Defensive Case Study: Hunting the Ball
+### Defensive Case Study: Hunting the Ball
 
 This clip exemplifies our vision for how we want to defend: [Hunting the Ball](https://youtu.be/hfqTy2bJzmU)
 

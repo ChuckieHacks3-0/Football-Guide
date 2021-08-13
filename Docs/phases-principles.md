@@ -1,7 +1,7 @@
 # Inferno Football-Guide
 A study guide for MYSA Inferno U14+ sides
 
-[_return to front page_](././readme.md)
+[_return to front page_](./../readme.md)
 
 ## Phases of Play
 

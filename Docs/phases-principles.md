@@ -30,24 +30,40 @@ Any restart after a whistle (re-starting play); either in attack or defense.
 ### Principles of Play: Attack
 
 1. **Penetration** 
+
 Getting inside and behind the defense's shape.  We want to attack and take on defenses.  Challenge them.  Attack the goal.
+
 2. **Support &amp; Depth**
+
 3. **Mobility** 
+
 An offense's movement and flexibility so it's shape and direction are never predictable or repetitive.
+
 4. **Width** 
+
 The ability of an offense to use the entire width of the field to spread out a defense and enable penetration and dangerous one-on-one isolation in different areas of the field.
+
 5. **Improvisation &amp; Creativity** 
 This means attacking freedom.  Improvisation allows attackers to express themselves and be unpredictable and find new ways to create chances.
 
 ### Principles of Play: Defense
 
 1. **Delay** 
+
 The defense's ability to slow down an offense to disrupt the pace and numerical advantage of an attack
+
 2. **Depth** 
+
 A defense's placement on the field.  If we are too deep, there is too much space for an offense to hold the ball in front of them and create chances.  If we are too shallow (high), there is too much space behind the defense for the attacking team to get behind.
+
 3. **Balance** 
+
 The defense's strength all over the field, not just players directly defending the ball.
+
 4. **Concentration** 
+
 The defense's focus.  It's critical to avoid simple mistakes like miskicks that give opponents undeserved opportunities.
+
 5. **Composure, Discipline &amp; Patience** 
+
 A non-measurable (intangible) trait that the entire team must possess to maintain defensive shape and the other four principles even while under constant pressure.

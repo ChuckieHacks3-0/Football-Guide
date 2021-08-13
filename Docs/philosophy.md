@@ -1,5 +1,5 @@
 # Inferno Football-Guide
-A study guide for MYSA Inferno U14+ sides
+A study guide for MYSA Inferno U14 through Senior sides
 
 [_return to front page_](./../README.md)
 

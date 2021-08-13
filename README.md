@@ -7,6 +7,8 @@ A study guide for MYSA Inferno U14+ sides
 
 [Phases and Principles of Play](Docs/phases-principles.md);
 
+**THE FOLLOWING SECTIONS ARE WORK IN PROGRESS:**
+
 ## Formation, Shape, and Positional Responsibilites
 
 ### Formations and Shape

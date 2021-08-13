@@ -7,6 +7,17 @@ A study guide for MYSA Inferno U14+ sides
 
 [Phases and Principles of Play](Docs/phases-principles.md)
 
+## Defensive Case Study: Hunting the Ball
+
+[Hunting the Ball](https://youtu.be/hfqTy2bJzmU)
+
+This clip exemplifies our vision for how we want to defend. Note:
+
+1. How Holland defend narrow and when the ball is won back, attack with width
+2. How the defensive players communicate constantly with each other.
+3. How the defensive players are constantly checking their shoulder to see who the teammates who are defending with them and where they are.
+4. How this shows the first principle of defense: **delay**.  Defenders don't attempt to win the ball until they have defensive support.
+
 **THE FOLLOWING SECTIONS ARE WORK IN PROGRESS:**
 
 ## Formation, Shape, and Positional Responsibilites

@@ -7,7 +7,7 @@ A study guide for MYSA Inferno U14+ sides
 
 ### Breaking up the field: Five Vertical Lanes
 
-![Vertical Lanes](./images/lanes.png)
+![Vertical Lanes](../images/lanes.png)
 
 Assuming the ball is closest to the left sideline:
 
@@ -19,7 +19,7 @@ Assuming the ball is closest to the left sideline:
 
 ### Breaking up the field: Three Horizontal Lanes
 
-![Horizontal Lanes](./images/horizontal.png)
+![Horizontal Lanes](../images/horizontal.png)
 
 1. Attacking Third
 2. Middle Third

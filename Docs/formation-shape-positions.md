@@ -5,7 +5,6 @@ A study guide for MYSA Inferno U14 through Senior sides
 
 ### Formations and Shape
 
-**3-3-3-1**
 ![3-3-3-1](../images/3-3-3-1.png)
 
 ### Position Groups

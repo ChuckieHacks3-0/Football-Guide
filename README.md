@@ -7,7 +7,7 @@ A study guide for MYSA Inferno U14 through Senior sides
 
 ### [Phases and Principles of Play](Docs/phases-principles.md)
 
-### [Formation, Shape, &amp; Positional Responsibilities](Docs/formation-shape-position.md)
+### [Formation, Shape, &amp; Positional Responsibilities](Docs/formation-shape-positions.md)
 
 ### [Set Pieces](Docs/set-pieces.md)
 
@@ -25,19 +25,6 @@ Think about the following and rewatch:
 
 **THE FOLLOWING SECTIONS ARE WORK IN PROGRESS:**
 
-## Formation, Shape, and Positional Responsibilites
-
-### Formations and Shape
-
-### Position Groups
-
-#### Position Group: Attackers
-
-#### Position Group: Midfielders
-
-#### Position Group: Defenders
-
-#### Position Group: Goalkeepers
 
 ## Set Pieces
 

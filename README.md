@@ -11,20 +11,36 @@ A study guide for MYSA Inferno U14 through Senior sides
 
 ### [Set Pieces](Docs/set-pieces.md)
 
-### Defensive Case Study: Hunting the Ball
+### [Case Studies](Docs/case-studies.md)
 
-This clip exemplifies our vision for how we want to defend: [Hunting the Ball](https://youtu.be/hfqTy2bJzmU)
+## Upcoming Schedule
 
-Think about the following and rewatch:
+**Wednesday, August 18th**
 
-1. Holland defend narrow and when the ball is won back, attack with width
-2. The defensive players communicate constantly with each other.
-3. The defensive players are constantly checking their shoulder to see who the teammates who are defending with them and where they are.
-4. How this shows the first principle of defense: **delay**.  Defenders don't attempt to win the ball until they have defensive support.
-5. The defenders are disciplined and organized
+7:00 PM - Pickup Soccer @ Greise Park
+
+**Sunday, August 22nd**
+
+5:30 PM - Training @ UW Fields
+
+**Wednesday, August 25th**
+
+7:00 PM - Pickup Soccer @ Greise Park
+
+**Saturday, August 28th**
+
+9:25 AM - Tournament Match vs Madison FC/Wave SC
+
+1:40 PM - Tournament Match vs Water Cities Soccer Club (Oshkosh)
+
+**Sunday, August 29th**
+
+12:15 PM - Tournament Match vs East Moline/Silvis Soccer Club
+
+4:30 PM - Tournament Match vs Waunakee Area Soccer Club
+
 
 **THE FOLLOWING SECTIONS ARE WORK IN PROGRESS:**
-
 
 ## Set Pieces
 

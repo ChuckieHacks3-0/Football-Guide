@@ -19,5 +19,5 @@ Think about the following and rewatch:
 
 This clip demonstrates how the attacking transition phase of play is the best opportunity for scoring goals (and conversely, the defensive transition phase is the most vulnerable.)  Be prepared to discuss the clip at training and be able to provide examples of what you see that can be applied to how we respond to a transition of phase:
 
-[Dortmund v Eintracht Frankfurt](https://youtu.be/NXTolt6we7w)
+[Dortmund v Eintracht Frankfurt extended highlights](https://youtu.be/NXTolt6we7w)
 

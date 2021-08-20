@@ -15,10 +15,6 @@ A study guide for MYSA Inferno U14 through Senior sides
 
 ## Upcoming Schedule
 
-**Wednesday, August 18th**
-
-7:00 PM - Pickup Soccer @ Greise Park
-
 **Sunday, August 22nd**
 
 5:30 PM - Training @ UW Fields

@@ -14,6 +14,7 @@ A study guide for MYSA Inferno U14 through Senior sides
 ### [Case Studies](Docs/case-studies.md)
 
 
+
 **THE FOLLOWING SECTIONS ARE WORK IN PROGRESS:**
 
 ## Set Pieces

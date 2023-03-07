@@ -9,6 +9,12 @@ A study guide for MYSA Inferno U14 through Senior sides
 
 ### [Formation, Shape, &amp; Positional Responsibilities](Docs/formation-shape-positions.md)
 
+#### Concepts
+
+##### [Pressure](Docs/concepts-pressure.md)
+
+##### [Attacking Patterns and Shape](Docs/attacking-patterns)
+
 ### [Set Pieces](Docs/set-pieces.md)
 
 ### [Case Studies](Docs/case-studies.md)
